@@ -1,6 +1,6 @@
 **TO OPEN LOCALHOST**
- yarn dev
-http://localhost:3000
+In the terminal execute:  yarn dev
+Then open the link in the browser: http://localhost:3000
 
 
 
