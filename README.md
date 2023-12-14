@@ -34,10 +34,13 @@ https://mumbai.polygonscan.com/tx/0x68be6f49ab5ff8d71c73d2e41745753d429f8cf933b7
 
 ——
 
+
 StakeERC20 Deployment
 https://mumbai.polygonscan.com/address/0x7117083edeD5146e1453bE8af806BdE4f86Aa50E
 
+
 ——
+
 
 Reward token approve Spender ( = Stake ERC20 Contract address)
 Max spend is 500.000 Tokens (500000000000000000000000 Wei)
@@ -46,8 +49,12 @@ https://mumbai.polygonscan.com/tx/0xaef96c1f6ea32baebef5c762e680e5b08cebeb45b872
 
 
 ——
+
+
 Deposit reward token
 https://mumbai.polygonscan.com/tx/0x2e5db613e34a3405588dc4f3667ed48373c8e0dc5838dae716d86b4f30ba8a31
+
+--
 
 
 
